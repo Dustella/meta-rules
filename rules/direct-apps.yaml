@@ -1,0 +1,54 @@
+# NAME: DIRECT_APPS
+# AUTHOR: dustella
+# REPO: https://github.com/dustella/meta-rules
+
+payload:
+  - PROCESS-NAME,com.tencent.mobileqq
+  - PROCESS-NAME,com.tencent.mm
+  - PROCESS-NAME,tv.danmaku.bili
+  - PROCESS-NAME,com.eg.android.AlipayGphone
+
+  - PROCESS-NAME,com.alicloud.databox
+  - PROCESS-NAME,com.baidu.netdisk
+  - PROCESS-NAME,com.dianping.v1
+  - PROCESS-NAME,com.hpbr.bosszhipin
+  - PROCESS-NAME,cn.ticktick.task
+  - PROCESS-NAME,com.ss.android.lark
+  - PROCESS-NAME,com.autonavi.minimap
+  - PROCESS-NAME,com.jingyao.minibike
+  - PROCESS-NAME,com.jingdong.app.mall
+  - PROCESS-NAME,com.coolapk.market
+  - PROCESS-NAME,com.sankuai.meituan
+  - PROCESS-NAME,com.szgov.entrance
+  - PROCESS-NAME,com.taobao.taobao
+  - PROCESS-NAME,com.MobileTicket
+  - PROCESS-NAME,youqu.android.todesk
+  - PROCESS-NAME,com.hihonor.cloudmusic
+  - PROCESS-NAME,com.taobao.idlefish
+
+  - PROCESS-NAME,com.miui.weather2
+  - PROCESS-NAME,com.xiaomi.smarthome
+  - PROCESS-NAME,com.xiaomi.mico
+  - PROCESS-NAME,com.xiaomi.wearable
+  - PROCESS-NAME,com.xiaomi.shop
+  - PROCESS-NAME,com.xiaomi.youpin
+  - PROCESS-NAME,com.baidu.carlife.xiaomi
+
+  - PROCESS-NAME,com.miui.gallery
+  - PROCESS-NAME,com.xiaomi.mi_connect_service
+  - PROCESS-NAME,com.xiaomi.mis
+  - PROCESS-NAME,com.xiaomi.aicr
+  - PROCESS-NAME,com.miui.cloudbackup
+  - PROCESS-NAME,com.xiaomi.account
+  - PROCESS-NAME,com.miui.tsmclient
+  - PROCESS-NAME,com.miui.nextpay
+  - PROCESS-NAME,com.miui.personalassistant
+  - PROCESS-NAME,com.xiaomi.market
+
+  - PROCESS-NAME,com.xingin.xhs
+  - PROCESS-NAME,ctrip.android.view
+  - PROCESS-NAME,com.daimajia.gold
+  - PROCESS-NAME,com.yuque.mobile.android.app
+  - PROCESS-NAME,sz.szsmk.citizencard
+  - PROCESS-NAME,com.android.bankabc
+  - PROCESS-NAME,com.greenpoint.android.mc10086.activity
