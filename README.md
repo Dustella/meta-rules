@@ -8,7 +8,7 @@ example `proxy-provider.yaml`
 rule-providers:
   direct-apps:
     type: http
-    behavior: domain
+    behavior: classical
     url: " https://cdn.jsdelivr.net/gh/dustella/meta-rules/rules/direct-apps.yaml"
     path: ./ruleset/direct-apps.yaml
     interval: 86400
